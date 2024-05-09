@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<students>
+  
+			<student id="2010100048">
+					<name>Juan Dela Cruz</name>
+					<birthday>January 25, 1984</birthday>
+					<course>BSIT</course>
+			</student>
+			<student id="2010100049">
+					<name>Armando Tiongson</name>
+					<birthday>April 2, 1984</birthday>
+					<course>BSIT</course>
+			</student>
+			<student id="2010100050">
+					<name>Oliver Borlongan</name>
+					<birthday>November 25, 1984</birthday>
+					<course>BSIT</course>
+			</student>
+			<student id="2010100051">
+					<name>John Ramos</name>
+					<birthday>January 25, 1984</birthday>
+					<course>BSIT</course>
+			</student>
+			<student id="2010100dsd051">
+					<name>John Ramosw</name>
+					<birthday>January 23, 1984</birthday>
+					<course>BSIT</course>
+			</student>
+ <student id="123465"><name>Sherdon A</name><birthday>September 25, 1984</birthday><course>BSIT</course></student><student id="122125"><name>Franklin B. Arenas</name><birthday>April 12, 11988</birthday><course>BSIS</course></student><student id="124587"><name>Juan Ramon Dela Cruz</name><birthday>May 20, 1980</birthday><course>BSIS</course></student><student id="123477"><name>Jefferson Alejandro</name><birthday>4/29.1990</birthday><course>BSIS</course></student></students>
